@@ -42,3 +42,12 @@ The robot's articulated arm was designed to extend beyond its initial starting d
 </p>
 
 To address the difficulty of lifting the heavy articulated arm, gear reductions were introduced at the arm joints. This modification reduced motor speed while increasing torque, providing greater lifting capability at the expense of movement speed.
+
+## Gripper Mechanism
+
+
+<p align="center">
+    <img width="592" height="736" alt="gripper" src="https://github.com/user-attachments/assets/4571a56e-3db2-4444-b73f-a32d217f3780" />
+</p>
+
+A custom 3D-printed gripper designed to pick up and manipulate objects during competition tasks. The mechanism allowed the robot to handle game elements as part of its scoring activities.
