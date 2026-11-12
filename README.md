@@ -11,3 +11,9 @@ Participated as a technical mentor, supporting the team during robot preparation
 <img width="956" height="634" alt="concept" src="https://github.com/user-attachments/assets/42b26354-07b9-42a0-bf88-d03703ac5979" />
 
 An initial concept sketch of the competition robot, illustrating the proposed design, approximate dimensions and planned gamepad controls. The drawing served as a visual reference during the team's robot development process.
+
+## Robot Assembly
+
+<img width="592" height="722" alt="skeleton" src="https://github.com/user-attachments/assets/c25d9055-d752-4b59-8603-6d9782e73b77" />
+
+The initial aluminum frame with partially installed drive components, including motors and wheels. This stage marked the transition from the concept design to the physical construction of the competition robot.
